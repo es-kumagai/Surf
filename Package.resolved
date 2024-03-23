@@ -1,0 +1,15 @@
+{
+  "originHash" : "2acbb42cb27911fdc688f77b20c5b61f82824602203a6ffc0af2184e04f47da0",
+  "pins" : [
+    {
+      "identity" : "swim",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/es-kumagai/Swim",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ecaffd1df8c8dfbe517ebdb04e510b8b51ac67d5"
+      }
+    }
+  ],
+  "version" : 3
+}
